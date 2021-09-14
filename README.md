@@ -7,4 +7,4 @@ accordance with company and regulatory guidelines. I have advanced skills commun
 At the moment I'm tired from my current work, there are no opportunities for career growth.
 
 I decided to change something in my life and take QA classes at  Acodemy. 
-![img.png](img.png)
+![img_1.png](img_1.png)
